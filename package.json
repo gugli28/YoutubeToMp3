@@ -1,0 +1,16 @@
+{
+  "name": "Youtube_Audio",
+  "version": "1.0.0",
+  "description": "Youtube Audio telegram Bot",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app"
+  },
+  "dependencies": {
+    "telegram-bot-api": "*",
+    "fluent-ffmpeg": "*",
+    "youtube-dl": "*"
+  },
+  "author": "princeiitk28@gmail.com"
+}
