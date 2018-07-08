@@ -18,3 +18,6 @@ Nodejs that acts as a server. After server is started it listens to the message 
  * `https://github.com/mast/telegram-bot-api`
  * `http://mvalipour.github.io/node.js/2015/11/10/build-telegram-bot-nodejs-heroku`
  * `https://www.sohamkamani.com/blog/2016/09/21/making-a-telegram-bot/`
+
+## BOT sample
+   * ![image](T_Bot.jpeg)
